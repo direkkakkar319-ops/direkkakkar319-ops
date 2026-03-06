@@ -1,21 +1,54 @@
 # Hi 👋 I'm Direk Kakkar
 
-💻 Aspiring Machine Learning Engineer
-🚀 Open Source Contributor
+💻 Aspiring **Machine Learning Engineer**
+🚀 **Open Source Contributor**
 🧠 Deep Learning & Neural Networks Enthusiast
 🏋️ Streetlifting & Calisthenics Athlete
 
-I enjoy building **Machine Learning systems, Deep Learning models, and scalable backend APIs**.
-Currently focused on **Deep Learning with PyTorch, open source contributions, and AI research.**
+Currently focused on **Deep Learning with PyTorch, Machine Learning systems, and Open Source contributions.**
 
 ---
 
-## 🚀 Current Focus
+# ⚔️ TECH ARSENAL
 
-* Deep Learning with **PyTorch**
-* Machine Learning systems
-* Contributing to **open source ML projects**
-* Building real-world **AI applications**
+### ⚡ Languages & Core
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+### 🧠 AI / Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+
+---
+
+### ⚙️ Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+
+---
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+
+---
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
@@ -23,60 +56,17 @@ Currently focused on **Deep Learning with PyTorch, open source contributions, an
 
 * Deep Learning with **PyTorch**
 * Neural Networks
-* Model training and evaluation
-* Reading **AI research papers**
-
----
-
-## 🧠 Tech Stack
-
-### Programming Languages
-
-* Python
-* Java
-* SQL
-
-### Machine Learning & Data Science
-
-* NumPy
-* Pandas
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* PyTorch
-
-### Backend Development
-
-* FastAPI
-* REST APIs
-
-### Frontend Development
-
-* React.js
-* HTML
-* CSS
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-
----
-
-## 📂 Open Source
-
-* Contributing to **skore**
-* Working on documentation improvements and features
+* AI research papers
+* Model training & evaluation
 
 ---
 
 ## 🔬 Future Goals
 
 * Become a **Machine Learning Engineer**
-* Contribute to **major open-source AI/ML libraries**
-* Research **Deep Learning and Neural Networks**
-* Build impactful **AI systems and tools**
+* Contribute to **major open-source ML libraries**
+* Research **Deep Learning & Neural Networks**
+* Build impactful **AI systems**
 
 ---
 
@@ -91,5 +81,3 @@ Currently focused on **Deep Learning with PyTorch, open source contributions, an
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Direk%20Kakkar-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/direk-kakkar-4a76642b2/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-direkkakkar319--ops-black?style=for-the-badge\&logo=github)](https://github.com/direkkakkar319-ops)
