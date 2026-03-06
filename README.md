@@ -70,11 +70,15 @@ Currently focused on **Deep Learning with PyTorch, Machine Learning systems, and
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GITHUB ANALYTICS
 
-![Direk's GitHub stats](https://github-readme-stats.vercel.app/api?username=direkkakkar319-ops\&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=direkkakkar319-ops\&style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=direkkakkar319-ops\&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=direkkakkar319-ops\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=direkkakkar319-ops\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=direkkakkar319-ops\&layout=compact\&theme=tokyonight)
 
 ---
 
